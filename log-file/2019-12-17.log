@@ -1,0 +1,45 @@
+2019-12-17 13:05:21 info: Database is connected
+2019-12-17 13:08:26 info: Database is connected
+2019-12-17 13:11:03 info: Database is connected
+2019-12-17 13:11:15 info: Database is connected
+2019-12-17 13:18:38 info: Database is connected
+2019-12-17 13:18:41 info: Database is connected
+2019-12-17 13:26:10 info: SMS Success
+2019-12-17 13:26:11 info: {"balance":37431,"batch_id":968271853,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 1045"},"receipt_url":"","custom":"","messages":[{"id":"11339356657","recipient":919974640171}],"status":"success"}
+2019-12-17 13:27:25 info: SMS Success
+2019-12-17 13:27:25 info: {"balance":37430,"batch_id":968273610,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 0310"},"receipt_url":"","custom":"","messages":[{"id":"11339358529","recipient":919974640171}],"status":"success"}
+2019-12-17 13:28:45 info: SMS Success
+2019-12-17 13:28:48 info: {"balance":37429,"batch_id":968275729,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 3838"},"receipt_url":"","custom":"","messages":[{"id":"11339360877","recipient":919974640171}],"status":"success"}
+2019-12-17 13:32:30 info: SMS Success
+2019-12-17 13:32:30 info: {"balance":37428,"batch_id":968282540,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 8591"},"receipt_url":"","custom":"","messages":[{"id":"11339368478","recipient":919974640171}],"status":"success"}
+2019-12-17 13:34:36 info: Database is connected
+2019-12-17 13:37:14 error: Error in user loginRequestError: Invalid object name 'tblUserRegistration'.
+2019-12-17 13:38:27 error: Error in user loginRequestError: Invalid object name 'tblUserRegistration'.
+2019-12-17 13:44:42 info: SMS Success
+2019-12-17 13:44:43 info: {"balance":37427,"batch_id":968299627,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 0574"},"receipt_url":"","custom":"","messages":[{"id":"11339391109","recipient":919974640171}],"status":"success"}
+2019-12-17 13:50:25 info: Database is connected
+2019-12-17 13:52:17 info: Database is connected
+2019-12-17 13:52:47 info: Database is connected
+2019-12-17 13:53:22 info: SMS Success
+2019-12-17 13:53:22 info: {"balance":37426,"batch_id":968312097,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is"},"receipt_url":"","custom":"","messages":[{"id":"11339405323","recipient":919974640171}],"status":"success"}
+2019-12-17 13:55:07 info: Database is connected
+2019-12-17 13:55:22 info: Database is connected
+2019-12-17 13:57:00 info: SMS Success
+2019-12-17 13:57:01 info: {"balance":37425,"batch_id":968317507,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 9985"},"receipt_url":"","custom":"","messages":[{"id":"11339413352","recipient":919673763935}],"status":"success"}
+2019-12-17 13:59:51 info: SMS Success
+2019-12-17 13:59:52 info: {"balance":37424,"batch_id":968321372,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 7863"},"receipt_url":"","custom":"","messages":[{"id":"11339419133","recipient":919974640171}],"status":"success"}
+2019-12-17 14:07:52 info: SMS Success
+2019-12-17 14:07:53 info: {"balance":37423,"batch_id":968340703,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 7321"},"receipt_url":"","custom":"","messages":[{"id":"11339450934","recipient":919673763935}],"status":"success"}
+2019-12-17 14:13:18 info: SMS Success
+2019-12-17 14:13:18 info: {"balance":37422,"batch_id":968349898,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 7128"},"receipt_url":"","custom":"","messages":[{"id":"11339526632","recipient":919974640171}],"status":"success"}
+2019-12-17 14:17:13 info: SMS Success
+2019-12-17 14:17:14 info: {"warnings":[{"message":"Number is in DND","numbers":"919421834035"}],"errors":[{"code":51,"message":"No valid numbers specified"}],"status":"failure"}
+2019-12-17 14:18:23 info: SMS Success
+2019-12-17 14:18:23 info: {"warnings":[{"message":"Number is in DND","numbers":"919423411055"}],"errors":[{"code":51,"message":"No valid numbers specified"}],"status":"failure"}
+2019-12-17 14:19:20 info: SMS Success
+2019-12-17 14:19:21 info: {"balance":37421,"batch_id":968360727,"cost":1,"num_messages":1,"message":{"num_parts":1,"sender":"txtlcl","content":"Your OTP for Video App access is 3470"},"receipt_url":"","custom":"","messages":[{"id":"11339554651","recipient":918390599063}],"status":"success"}
+2019-12-17 14:23:09 info: SMS Success
+2019-12-17 14:23:09 info: {"warnings":[{"message":"Number is in DND","numbers":"919421834035"}],"errors":[{"code":51,"message":"No valid numbers specified"}],"status":"failure"}
+2019-12-17 14:23:35 info: Database is connected
+2019-12-17 14:47:21 info: Database is connected
+2019-12-17 14:54:21 info: Database is connected

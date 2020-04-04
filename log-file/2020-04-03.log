@@ -1,0 +1,37 @@
+2020-04-03 18:38:11 info: Database is connected
+2020-04-03 18:40:00 info: Database is connected
+2020-04-03 18:46:08 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:46:39 info: Database is connected
+2020-04-03 18:46:44 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:47:31 info: Database is connected
+2020-04-03 18:47:34 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:53:47 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:54:15 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:58:42 info: Database is connected
+2020-04-03 18:58:54 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 18:59:30 info: Database is connected
+2020-04-03 18:59:40 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:02:20 info: Database is connected
+2020-04-03 19:02:23 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:05:16 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:05:46 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:08:33 info: Database is connected
+2020-04-03 19:08:39 info: Database is connected
+2020-04-03 19:08:43 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:08:57 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:10:45 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:10:51 info: Database is connected
+2020-04-03 19:11:11 info: Database is connected
+2020-04-03 19:11:15 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:11:32 info: Database is connected
+2020-04-03 19:11:36 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:11:59 info: Database is connected
+2020-04-03 19:12:01 error: Error while addind Person detailsTypeError: sql.nvarchar is not a function
+2020-04-03 19:14:26 info: Database is connected
+2020-04-03 19:14:29 error: Error while addind Person detailsTypeError: sql.Nvarchar is not a function
+2020-04-03 19:15:00 error: Error while addind Person detailsTypeError: sql.Nvarchar is not a function
+2020-04-03 19:15:20 info: Database is connected
+2020-04-03 19:15:23 error: Error while addind Person detailsTypeError: sql.NVarchar is not a function
+2020-04-03 19:15:35 info: Database is connected
+2020-04-03 19:17:41 info: Database is connected
+2020-04-03 19:19:33 info: Database is connected

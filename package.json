@@ -1,0 +1,21 @@
+{
+  "name": "emp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set DEBUG=app & nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "mssql": "^6.0.1",
+    "nodemon": "^2.0.2",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.0"
+  }
+}
