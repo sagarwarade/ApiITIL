@@ -47,7 +47,7 @@ exports.postPersonDetails=(req,res)=>{
                     .input('DeactivatedOn',sql.Date,DeactivatedOn)
                     .input('DeactivatedBy',sql.NVarChar(30),DeactivatedBy)
                     .input('DeactivationReason',sql.NVarChar(200),DeactivationReason)
-                    .execute('SpPostPerson');
+                    .execute('SpPostPersonDetails');
                 res.json(response.success(null,"Successful Person registration"));
                 
              }
@@ -66,7 +66,7 @@ exports.getRegisteredPersons=(req,res)=>{
         const request=new sql.Request();
        const {recordset}=
        await request
-       .execute('SpGetPerson');   
+       .execute('SpGetPersonDetails');   
        console.log(request);
        res.json(recordset);
         }
@@ -85,7 +85,7 @@ exports.getPersonDetailsByPersonPK=(req,res)=>{
             const {recordset}=
                  await request
                 .input('PersonPK',sql.Int,PersonPK)
-                .execute('SpGetPersonByID');   
+                .execute('SpGetPersonDetailsByID');   
                 if(recordset.length)   //for checking if record exists or not
                 {
                     res.json(recordset);
@@ -119,7 +119,7 @@ exports.putPersonDetails=(req,res)=>{
          .input('MiddleName',sql.NVarChar(50),MiddleName)
          .input('Email',sql.NVarChar(50),Email)
          .input('MobileNo',sql.NVarChar(12),MobileNo)
-         .execute('SpUpdatePerson');
+         .execute('SpUpdatePersonDetails');
          res.json(response.success(null,"Person details updated successfully"));
         }
         catch (error) {
