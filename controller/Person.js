@@ -12,7 +12,7 @@ const config=require('../config/config');
 // CreatedOn	date
 // CreatedBy	nvarchar(30)
 // IsActive	bit
-// DeactivatedOn	datedf
+// DeactivatedOn	date
 // DeactivatedBy	nvarchar(30)
 // DeactivationReason	nvarchar(200)
 
