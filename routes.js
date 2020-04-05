@@ -1,16 +1,28 @@
 const express = require('express');
 const ITILRouter = express.Router();
-const ITILController = require('./controller/Person');
+const RequestStatusController = require('./controller/RequestStatus');
+const ResolutionController = require('./controller/Resolution');
 
-ITILRouter.get('/get-Persons', ITILController.getRegisteredPersons);
+ITILRouter.get('/get-RequestStatus', RequestStatusController.getRegisteredRequestStatus);
 
-ITILRouter.get('/get-Person/:PersonPK', ITILController.getPersonDetailsByPersonPK);
+ITILRouter.get('/get-RequestStatus/:RequestStatusPK', RequestStatusController.getRequestStatusDetailsByRequestStatusPK);
 
- ITILRouter.post('/add-PersonDetails', ITILController.postPersonDetails);
+ ITILRouter.post('/add-RequestStatusDetails', RequestStatusController.postRequestStatusDetails);
 
- ITILRouter.put('/edit-Person/:PersonPK', ITILController.putPersonDetails);
+ ITILRouter.put('/edit-RequestStatus/:RequestStatusPK', RequestStatusController.putRequestStatusDetails);
 
- ITILRouter.delete('/delete-Person/:PersonPK', ITILController.deletePersonDetails);
+ ITILRouter.delete('/delete-RequestStatus/:RequestStatusPK', RequestStatusController.deleteRequestStatusDetails);
+
+
+ITILRouter.get('/get-Resolutions', ResolutionController.getRegisteredResolutions);
+
+ITILRouter.get('/get-Resolution/:ResolutionPK', ResolutionController.getResolutionDetailsByResolutionPK);
+
+ ITILRouter.post('/add-ResolutionDetails', ResolutionController.postResolutionDetails);
+
+ ITILRouter.put('/edit-Resolution/:ResolutionPK', ResolutionController.putResolutionDetails);
+
+ ITILRouter.delete('/delete-Resolution/:ResolutionPK', ResolutionController.deleteResolutionDetails);
 
 
 module.exports = ITILRouter;

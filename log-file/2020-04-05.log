@@ -1,0 +1,36 @@
+2020-04-05 10:58:59 info: Database is connected
+2020-04-05 11:07:12 error: Error while addind RequestStatus detailsRequestError: Conversion failed when converting the nvarchar value 'Cannot insert the value NULL into column 'RequestPK', table 'ITILDB.dbo.RequestStatus'; column does not allow nulls. INSERT fails.' to data type int.
+2020-04-05 11:17:48 info: Database is connected
+2020-04-05 11:17:57 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:18:35 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:18:46 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:19:34 info: Database is connected
+2020-04-05 11:19:47 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:22:55 info: Database is connected
+2020-04-05 11:23:45 info: Database is connected
+2020-04-05 11:24:36 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:26:07 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:26:42 info: Database is connected
+2020-04-05 11:26:50 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:29:19 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:29:33 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:31:50 error: Error while addind RequestStatus detailsRequestError: Validation failed for parameter 'UpdatedOn'. Invalid date.
+2020-04-05 11:32:53 info: Database is connected
+2020-04-05 11:33:26 info: Database is connected
+2020-04-05 11:36:13 info: Database is connected
+2020-04-05 11:49:27 info: Database is connected
+2020-04-05 11:58:11 info: Database is connected
+2020-04-05 12:03:48 info: Database is connected
+2020-04-05 12:06:17 info: Database is connected
+2020-04-05 12:06:50 info: Database is connected
+2020-04-05 12:07:02 info: Database is connected
+2020-04-05 12:09:26 info: Database is connected
+2020-04-05 12:10:36 info: Database is connected
+2020-04-05 12:11:52 info: Database is connected
+2020-04-05 12:17:16 info: Database is connected
+2020-04-05 12:17:48 info: Database is connected
+2020-04-05 12:18:27 info: Database is connected
+2020-04-05 12:21:28 info: Database is connected
+2020-04-05 12:22:12 info: Database is connected
+2020-04-05 12:22:59 info: Database is connected
+2020-04-05 12:23:46 info: Database is connected
